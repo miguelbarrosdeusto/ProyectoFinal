@@ -51,3 +51,10 @@ El sistema consta de los siguientes componentes:
 
 5. **Ejecución del Cliente MQTT en el Ordenador Portátil:**
    - Pasos para ejecutar y configurar el cliente MQTT en el ordenador portátil.
+
+## Enlaces de Interés
+
+- [Documentación del microcontrolador](enlace_microcontrolador)
+- [Biblioteca MQTT utilizada](enlace_mqtt_library)
+- [Instalación de Mosquitto en la Raspberry Pi](enlace_instalacion_mosquitto)
+- [Guía de e2studio](enlace_e2studio_guide)
